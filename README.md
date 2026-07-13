@@ -44,7 +44,7 @@ The lifting index was computed with the RNLE by varying load weight, lifting hei
 
 ## Conclusions
 
-Spectral feature analysis of the sEMG signal proves to be a useful tool both for assessing muscle fatigue and for classifying biomechanical risk in manual load-lifting tasks, and therefore a promising — though preliminary, given the limited sample size — indicator of the risk of related musculoskeletal disorders. Future work could use these features to train machine learning algorithms for automatic risk prediction.
+Spectral feature analysis of the sEMG signal proves to be a useful tool both for assessing muscle fatigue and for classifying biomechanical risk in manual load-lifting tasks, and therefore a promising preliminary indicator of the risk of related musculoskeletal disorders. Future work could use these features to train machine learning algorithms for automatic risk prediction.
 
 ## Repository contents
 
@@ -52,9 +52,6 @@ Spectral feature analysis of the sEMG signal proves to be a useful tool both for
 
 ## Author
 
-**Federica Cirillo** — Biomedical Engineering, University of Naples Federico II
+Federica Cirillo — Biomedical Engineering, University of Naples Federico II
 Supervisor: Prof. Maria Romano · Co-supervisors: Prof. Paolo Gargiulo, Eng. Leandro Donisi, PhD
 
-## Keywords
-
-surface EMG · muscle fatigue · spectral analysis · NIOSH lifting equation · biomechanical risk · ergonomics · musculoskeletal disorders · wearable devices · lumbar multifidus
