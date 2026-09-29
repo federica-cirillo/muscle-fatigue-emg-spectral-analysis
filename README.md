@@ -53,5 +53,6 @@ Spectral feature analysis of the sEMG signal proves to be a useful tool both for
 ## Author
 
 Federica Cirillo — Biomedical Engineering, University of Naples Federico II
+
 Supervisor: Prof. Maria Romano · Co-supervisors: Prof. Paolo Gargiulo, Eng. Leandro Donisi, PhD
 
